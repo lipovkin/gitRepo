@@ -1,5 +1,0 @@
-How are you again?
-consol.log("How are you agin?");
-var username = "Петя";
-var usernames = [];
-
